@@ -7,7 +7,7 @@ I’m a developer who turns caffeine into code and data into insights. Currently
 
 🛠️ My Tech Toolbox
 - **AI/ML:** RAG Systems, Vector Databases (Pinecone/Milvus), LangChain
-- **Backend:** [Insert languages like Python/Node.js]
+- **Backend:** Python.
 - **Mathematics:** Stochastic Calculus & Probability
 
 🔭 Current Focus
